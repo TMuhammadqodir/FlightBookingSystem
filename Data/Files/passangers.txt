@@ -1,0 +1,24 @@
+[
+  {
+    "FirstName": "wdfdq",
+    "LastName": "dws",
+    "TelNumber": "45423",
+    "ListOfFlights": [],
+    "FlightDetail": "",
+    "SeatInformation": "",
+    "Id": 2,
+    "CreateAt": "2023-07-25T18:57:52.0135947Z",
+    "UpdateAt": "0001-01-01T00:00:00"
+  },
+  {
+    "FirstName": "asas",
+    "LastName": "adwq",
+    "TelNumber": "2324313",
+    "ListOfFlights": [],
+    "FlightDetail": "",
+    "SeatInformation": "",
+    "Id": 3,
+    "CreateAt": "2023-07-25T19:03:52.392639Z",
+    "UpdateAt": "0001-01-01T00:00:00"
+  }
+]
